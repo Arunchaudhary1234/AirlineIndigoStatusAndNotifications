@@ -1,0 +1,7 @@
+{
+    "flights": [
+      { "id": 01, "airline": "Airline Indigo", "flight_number": "6E 203", "status": "On Time", "gate": "T1" },
+      { "id": 02, "airline": "Airline Vistara", "flight_number": "UK 944", "status": "Delayed", "gate": "T2" },
+      { "id": 03, "airline": "Airline Akasa Air", "flight_number": "QP 1101", "status": "Cancelled", "gate": "T3" }
+    ]
+  }

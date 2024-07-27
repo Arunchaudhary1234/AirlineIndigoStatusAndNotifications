@@ -1,0 +1,29 @@
+.flight-status-container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .flight-status-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .flight-status-table th, .flight-status-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .flight-status-table th {
+    background-color: #f2f2f2;
+    color: black;
+  }
+  
+  .flight-status-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .flight-status-table tr:hover {
+    background-color: #ddd;
+  }

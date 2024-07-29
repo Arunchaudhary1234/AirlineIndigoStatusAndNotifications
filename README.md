@@ -43,7 +43,7 @@ python
 notification_service.py
 
 Start Kafka and RabbitMQ:
-Ensure Kafka and RabbitMQ are running on your local machine.
+Ensured Kafka and RabbitMQ are running on our local machine.
 
 **Usage**
 
